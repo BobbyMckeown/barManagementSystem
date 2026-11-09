@@ -1,8 +1,7 @@
-package Controller;
+package com.example.barManagementSystem.Controller;
 
-import Model.Staff;
-import Repository.StaffRepo;
-import org.springframework.stereotype.Controller;
+import com.example.barManagementSystem.Model.Staff;
+import com.example.barManagementSystem.Repository.StaffRepo;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
